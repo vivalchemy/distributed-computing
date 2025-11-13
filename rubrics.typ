@@ -61,7 +61,7 @@ box(width: 80%)[
 
 
 table(
-  columns: (20%, 15%, 15%, 20%, 20%, 15%),
+  columns: (17%, 15%, 15%, 20%, 20%, 13%),
   align: horizon,
 [*Performance Indicator*],[*Below Average*],[*Average*],[*Good*],[*Excellent*],[*Marks*],
   [*On Time Submission (2)*],[Not submitted(0)],[Submitted after deadline (1)],[Early or on time submission (2)],[---],[],

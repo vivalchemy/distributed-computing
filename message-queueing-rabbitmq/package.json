@@ -1,0 +1,12 @@
+{
+  "name": "rabbitmq-pub-sub",
+  "type": "module",
+  "scripts": {
+    "publisher": "bun run publisher.js",
+    "subscriber": "bun run subscriber.js",
+    "rabbitmq": "docker compose up"
+  },
+  "dependencies": {
+    "amqplib": "^0.10.3"
+  }
+}

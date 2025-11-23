@@ -18,7 +18,7 @@
 
 
 
-#rubric(4, "Implement the Election Algorithms", dateOfPerformance: datetime(day: 14, month: 11, year: 2025))
+#rubric(5, "Implement the Election Algorithms", dateOfPerformance: datetime(day: 14, month: 11, year: 2025))
 
 #text(size: 14pt, weight: "bold")[
   Aim: To Implement the Election Algorithms

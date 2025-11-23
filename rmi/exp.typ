@@ -1,6 +1,6 @@
 #set page(paper: "a4", margin: (x: 1.5cm, y: 1.5cm) )
 
-#import "../rubrics.typ" : rubric
+#import "../utils.typ" : rubric
 
 #let code(filename, lang) = {
   block(stroke: 1pt + gray, inset: 10pt, radius: 10pt)[
